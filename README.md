@@ -7,3 +7,4 @@ svg icon test
 data uri test
 fluidicon test
 user link test
+odoo link test
