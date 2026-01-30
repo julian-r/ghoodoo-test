@@ -10,3 +10,4 @@ user link test
 odoo link test
 mapping test
 name test
+clean message
