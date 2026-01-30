@@ -8,3 +8,4 @@ data uri test
 fluidicon test
 user link test
 odoo link test
+mapping test
